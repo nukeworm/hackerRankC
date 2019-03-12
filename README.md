@@ -1,1 +1,1 @@
-This repository contains all my HackerRank problem's solutions.
+This repository contains all my HackerRank solutions.
